@@ -1,7 +1,7 @@
 # Here Mara Selena 🛸 #
 
 [![OrcID](https://img.shields.io/badge/OrcID-FFFFFF?style=flat&logo=Orcid&logoColor=FDB0C0)](https://orcid.org/0009-0004-9221-4010)
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-FFFFFF?style=flat&logo=Linkedin&logoColor=FDB0C0)](https://www.linkedin.com/in/maraselenamesiasbastidas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=Linkedin&logoColor=FDB0C0)](https://www.linkedin.com/in/maraselenamesiasbastidas/)
 <br>
 
 ### Summary #
