@@ -13,7 +13,7 @@
 ### Education
 #### University of Nariño
 
-Bachelor in Science in Biology. Pasto, Colombia
+Bachelor of Science in Biology. Pasto, Colombia
  | Feb. 2019 - Sep. 2024
 - Member of the Evolutionary Ecology research group at the University of Nariño.
 - Member of the Astrophysics research group at the University of Nariño.
